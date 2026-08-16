@@ -1,0 +1,6 @@
+{
+  "name": "Checkpoint",
+  "description": "A real-time, highly accessible social deduction card game teaching Media & Information Literacy (MIL) through investigative deduction, cross-examination, and verification passports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
